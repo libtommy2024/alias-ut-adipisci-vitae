@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/alias-ut-adipisci-vitae",
-  "version": "11.27.317",
+  "version": "11.27.318",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -435,5 +435,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/alias-ut-adipisci-vitae/issues"
   },
-  "packageManager": "yarn@4.9.0"
+  "packageManager": "yarn@4.9.1"
 }
